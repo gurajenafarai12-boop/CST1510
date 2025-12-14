@@ -1,3 +1,0 @@
-Rodney,$2b$12$.JAGbx2XniSTYftmHpF.Veq45o9lBAX81Egw7jAOfPfJNnIiXKAli
-alice,$2b$12$vbaQSqgA2jBwtsyj/LPfa.EpA7BQBc5qaZ4PBjigadrJMAaS2DJMG
-Farai,$2b$12$Ka02VcxCk7/lDlj6pavMW.ZZVaqyob28UIUQIllpBXWq8LgE5T37y
