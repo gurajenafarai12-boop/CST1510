@@ -1,3 +1,0 @@
-alice,$2b$12$AeLw/9E3rk6SHvbuMMXX2evCGVFdOAx.Q.x2ApiHsmaC1iClJGZHu
-rodney,$2b$12$sGwRRb/lvzNDTK6TPPO6W.ETY1DRoDGSlffCrFGrpEgi4DDCuaEgC
-Farai,$2b$12$wiT.jTsh9mkokoWAqxDfb.nv20loU5KgFlNazorNKxg4U/fotUHPe
